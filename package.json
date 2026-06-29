@@ -1,0 +1,13 @@
+{
+  "name": "midea-portasplit-monitor",
+  "version": "1.0.0",
+  "private": true,
+  "description": "Monitor Midea PortaSplit availability",
+  "main": "monitor.js",
+  "scripts": {
+    "monitor": "node monitor.js"
+  },
+  "dependencies": {
+    "playwright": "^1.49.1"
+  }
+}
