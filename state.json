@@ -1,0 +1,39 @@
+{
+  "sites": {
+    "Boulanger": {
+      "lastAvailable": false,
+      "lastAlertAt": null,
+      "lastStatus": "CHECK_MANUAL"
+    },
+    "Amazon": {
+      "lastAvailable": false,
+      "lastAlertAt": null,
+      "lastStatus": "CHECK_MANUAL"
+    },
+    "Darty": {
+      "lastAvailable": false,
+      "lastAlertAt": null,
+      "lastStatus": "CHECK_MANUAL"
+    },
+    "ManoMano": {
+      "lastAvailable": false,
+      "lastAlertAt": null,
+      "lastStatus": "CHECK_MANUAL"
+    },
+    "Leroy Merlin": {
+      "lastAvailable": false,
+      "lastAlertAt": null,
+      "lastStatus": "CHECK_MANUAL"
+    },
+    "Castorama": {
+      "lastAvailable": false,
+      "lastAlertAt": null,
+      "lastStatus": "UNAVAILABLE"
+    },
+    "Bricoman": {
+      "lastAvailable": false,
+      "lastAlertAt": null,
+      "lastStatus": "CHECK_MANUAL"
+    }
+  }
+}
