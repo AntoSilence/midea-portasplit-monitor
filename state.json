@@ -16,9 +16,9 @@
       "lastStatus": "CHECK_MANUAL"
     },
     "ManoMano": {
-      "lastAvailable": false,
-      "lastAlertAt": null,
-      "lastStatus": "CHECK_MANUAL"
+      "lastAvailable": true,
+      "lastAlertAt": "2026-07-09T22:57:16.995Z",
+      "lastStatus": "AVAILABLE_OK"
     },
     "Leroy Merlin": {
       "lastAvailable": false,
