@@ -28,7 +28,7 @@
     "Castorama": {
       "lastAvailable": false,
       "lastAlertAt": null,
-      "lastStatus": "CHECK_MANUAL"
+      "lastStatus": "UNAVAILABLE"
     },
     "Bricoman": {
       "lastAvailable": false,
