@@ -8,7 +8,7 @@
     "Amazon": {
       "lastAvailable": false,
       "lastAlertAt": null,
-      "lastStatus": "CHECK_MANUAL"
+      "lastStatus": "UNAVAILABLE"
     },
     "Darty": {
       "lastAvailable": false,
