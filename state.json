@@ -18,7 +18,7 @@
     "ManoMano": {
       "lastAvailable": false,
       "lastAlertAt": "2026-07-09T22:57:16.995Z",
-      "lastStatus": "CHECK_MANUAL"
+      "lastStatus": "UNAVAILABLE"
     },
     "Leroy Merlin": {
       "lastAvailable": false,
@@ -28,7 +28,7 @@
     "Castorama": {
       "lastAvailable": false,
       "lastAlertAt": null,
-      "lastStatus": "UNAVAILABLE"
+      "lastStatus": "CHECK_MANUAL"
     },
     "Bricoman": {
       "lastAvailable": false,
