@@ -8,7 +8,7 @@
     "Amazon": {
       "lastAvailable": true,
       "lastAlertAt": "2026-08-04T03:48:40.954Z",
-      "lastStatus": "AVAILABLE_OK"
+      "lastStatus": "CHECK_MANUAL"
     },
     "Darty": {
       "lastAvailable": false,
