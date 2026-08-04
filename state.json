@@ -6,9 +6,9 @@
       "lastStatus": "CHECK_MANUAL"
     },
     "Amazon": {
-      "lastAvailable": false,
-      "lastAlertAt": "2026-08-02T16:58:01.808Z",
-      "lastStatus": "CHECK_MANUAL"
+      "lastAvailable": true,
+      "lastAlertAt": "2026-08-04T03:48:40.954Z",
+      "lastStatus": "AVAILABLE_OK"
     },
     "Darty": {
       "lastAvailable": false,
@@ -18,7 +18,7 @@
     "ManoMano": {
       "lastAvailable": false,
       "lastAlertAt": "2026-07-09T22:57:16.995Z",
-      "lastStatus": "UNAVAILABLE"
+      "lastStatus": "CHECK_MANUAL"
     },
     "Leroy Merlin": {
       "lastAvailable": false,
