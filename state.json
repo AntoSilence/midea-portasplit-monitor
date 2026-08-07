@@ -6,9 +6,9 @@
       "lastStatus": "CHECK_MANUAL"
     },
     "Amazon": {
-      "lastAvailable": false,
-      "lastAlertAt": "2026-08-04T03:48:40.954Z",
-      "lastStatus": "CHECK_MANUAL"
+      "lastAvailable": true,
+      "lastAlertAt": "2026-08-07T17:49:10.283Z",
+      "lastStatus": "AVAILABLE_OK"
     },
     "Darty": {
       "lastAvailable": false,
@@ -28,7 +28,7 @@
     "Castorama": {
       "lastAvailable": false,
       "lastAlertAt": null,
-      "lastStatus": "UNAVAILABLE"
+      "lastStatus": "CHECK_MANUAL"
     },
     "Bricoman": {
       "lastAvailable": false,
